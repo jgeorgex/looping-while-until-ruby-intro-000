@@ -8,4 +8,3 @@ end
 
 #using_until puts out the phrase 'Wingardium Leviosa' until the levitation force is incremented to 10
      #Failure/Error: expect{ using_until }.to output(looping_string).to_stdout
-  
